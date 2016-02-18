@@ -10,7 +10,8 @@ import android.os.Bundle;
 *       New repository name: & Description -> share -> ok -> Successfully shared project on GitHub
 * 3. refresh GitHub page & see repositories
 *
-* 
+* after change
+*  1.VCS -> Commit Changes... -> Commit Message -> Commit and Push... -> Push -> Push successful
 */
 
 
